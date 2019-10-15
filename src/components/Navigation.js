@@ -2,16 +2,14 @@ import React from 'react';
 
 
 
-
-
 const Navigation = () => {
   
   return (
 
     <div>
       <div className="App">
-
-        <h1>React Router Mini</h1>
+        
+          <h1>React Router Mini</h1>
 
         <div>
           <a href="">Home</a>
@@ -27,7 +25,6 @@ const Navigation = () => {
 
       </div>
     </div>
-
   );
 };
 
