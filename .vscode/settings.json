@@ -12,5 +12,6 @@
         "statusBar.background": "#ff0186",
         "statusBarItem.hoverBackground": "#ff349e",
         "statusBar.foreground": "#e7e7e7"
-    }
+    },
+    "peacock.color": "#ff0186"
 }
